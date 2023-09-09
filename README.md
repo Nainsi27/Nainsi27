@@ -23,9 +23,9 @@
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
      alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nainsi-pandey-121a5a218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-  generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulbaghel" height="30" width="40" /></a>
+  generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-  generator/master/src/images/icons/Social/facebook.svg" alt="rahulbaghel" height="30" width="40" /></a>
+  generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
  generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 

@@ -19,6 +19,15 @@
 - 📫 How to reach me **nancypandey6870@gmail.com**
 
 <h3 align="left"> Connect with me:</h3>
+![File_Logo_of_Twitter](https://github.com/user-attachments/assets/4f3064e0-57d8-4ac9-9dd1-a67fbf6c2e37)
+![File_LinkedIn_icon](https://github.com/user-attachments/assets/dd9f648c-6c4b-40c9-8427-4ef1357ca525)
+![File_Octicons-mark-github](https://github.com/user-attachments/assets/5de69838-654c-4125-be86-784a291494da)
+
+
+
+
+
+
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
      alt="" height="30" width="40" /></a>
